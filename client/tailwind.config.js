@@ -8,10 +8,10 @@ module.exports = {
   theme: {
     extend: {
        fontFamily: {
-       sans: ['Tinos', 'serif'],
-  tinos: ['Tinos', 'serif'],
-      },
+        sans: ['Tinos', 'serif'],
+        tinos: ['Tinos', 'serif']
     },
   },
+},
   plugins: [],
 };
